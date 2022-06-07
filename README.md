@@ -1,0 +1,1 @@
+This is a simple way to generate numbers on a lottery ticket. It is some fun stuff I did while playing with Javascript Math.random
